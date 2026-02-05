@@ -1,6 +1,6 @@
 # 1云梯官网地址
 
-永久官网：[1yunti.com](https://c.jichangs.com/node1)
+永久官网：[1yunti.com](https://c.jichangs.com/1yunti)
 
 ## 1云梯介绍
 
@@ -22,9 +22,9 @@
 
 ## 1云梯优惠码
 
-月/季/半年/年付 8折，（叠加优惠高达6.4折）优惠码：[chunjie20%](https://c.jichangs.com/node1)  可重复使用5次
+月/季/半年/年付 8折，（叠加优惠高达6.4折）优惠码：[chunjie20%](https://c.jichangs.com/1yunti)  可重复使用5次
 
-两年/三年付 75折（叠加优惠高达4.5折 ）优惠码：[chunjie25%](https://c.jichangs.com/node1)  可重复使用5次
+两年/三年付 75折（叠加优惠高达4.5折 ）优惠码：[chunjie25%](https://c.jichangs.com/1yunti)  可重复使用5次
 
 注意：云梯小年包 – 套餐 不可使用优惠码 其他正常使用
 
@@ -41,9 +41,9 @@
 | VIP4    | 1000GB | ￥120 | ￥324  | ￥697 | ￥1152 | ￥2016 | ￥2592 |
 | DIY定制套餐 |        | ￥600 |       |      |       |       |       |
 
-热门套餐推荐：[云梯小年包](https://c.jichangs.com/node1)（￥98/年，每月60G流量）
+热门套餐推荐：[云梯小年包](https://c.jichangs.com/1yunti)（￥98/年，每月60G流量）
 
-[![1云梯套餐价格](1yunti_20250121_150018.png)](https://c.jichangs.com/node1)
+[![1云梯套餐价格](1yunti_20250121_150018.png)](https://c.jichangs.com/1yunti)
 
 ## 一云梯好用吗？
 
